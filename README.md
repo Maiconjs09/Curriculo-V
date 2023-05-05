@@ -1,5 +1,4 @@
-# Curriculo-V
-Curriculum Vitae Online
+
 📑 CONCEITOS UTILIZADOS
 🔴 HTML:
 Algumas das principais tags e conceitos que utilizamos para o desenvolvimento desse projeto foram:
@@ -104,3 +103,41 @@ Saiba mais sobre HTML, Emojis:
 Sobre html: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
 Emojis: https://www.w3schools.com/charsets/ref_emoji.asp
+
+About
+Template de Currículo (Referência W3C)
+
+Topics
+Resources
+ Readme
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 654 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Environments 1
+ github-pages Active
+Languages
+HTML
+100.0%
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
